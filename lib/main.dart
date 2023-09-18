@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'ChatGPT Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.orange,
         useMaterial3: true,
       ),
       home: const ChatScreen(),
